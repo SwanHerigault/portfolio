@@ -66,3 +66,10 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+### Si vous souhaitez modifier votre profil
+
+Il vous suffit de modifier la photo se trouvant dans src/Card
+
+Vous trouverez les informations de la section "A PROPOS" dans src/Propos
