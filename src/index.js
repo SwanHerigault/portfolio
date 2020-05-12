@@ -1,0 +1,40 @@
+import React from 'react';
+import ReactDOM from 'react-dom';
+import './index.css';
+import * as serviceWorker from './serviceWorker';
+import App from './App';
+import Header from './Header';
+import Card from './Card'
+import Propos from './Propos';
+import Scolarite from './Scolarite'
+import Competence from './Competence';
+import Experience from './Experience';
+import Projet from './Projet';
+import Contact from './Contact';
+import Footer from './Footer';
+
+
+
+
+
+ReactDOM.render(
+  <React.StrictMode>
+    <App />
+    <Header />
+    <Card />
+    <Propos />
+    <Scolarite />
+    <Competence />
+    <Experience />
+    <Projet />
+    <Contact />
+    <Footer />
+  </React.StrictMode>,
+  document.getElementById('root')
+);
+
+// If you want your app to work offline and load faster, you can change
+// unregister() to register() below. Note this comes with some pitfalls.
+// Learn more about service workers: https://bit.ly/CRA-PWA
+serviceWorker.unregister();
+

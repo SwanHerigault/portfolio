@@ -1,0 +1,563 @@
+
+.image1 {
+  background-image: url(./Screenshot_24.png);
+  width: 100%;
+  z-index: 0;
+  margin-top: 0px;
+  display: flex;
+}
+.profile{
+  background-image: url(./swan.png);
+  z-index: 10;
+  margin: 10px auto auto 10px;
+  display: block;
+  width: 275px;
+  height: 353px;
+  display:flex;
+  border: 5px solid;
+}
+.profil{
+  background-color: #FFE8E8;
+  position:relative;
+  padding: 0px;
+  margin: 200px 293px 150px 293px;
+  z-index: 20;
+  padding-bottom: 150px;
+  border: 2px solid ;
+
+  
+}
+.card-content{
+  text-align: center;
+
+}
+.profile-list{
+  text-align: center;
+}
+.text-uppercase-left{
+font-size: 50px;
+margin-top: -300px;
+margin-left: -200px;
+}
+.content{
+  font-size: 20px;
+  margin-left: 0px;
+}
+.clearfix{
+  margin-left: -400px;
+  padding-bottom: 7px;
+}
+.clearfix1{
+  margin-left: -513px;
+  padding-bottom: 7px;
+}
+.clearfix2{
+  margin-left: -484px;
+}
+.text-capitalize-left{
+  font-size: 15px;
+  margin-left: -350px;
+  margin-top: -60px;
+
+}
+.parent-propos{
+  background-color:#FFE8E8;
+  margin-top: 0px;
+  margin-left: 293px;
+  margin-right: 293px;
+  position: relative;
+  border: 2px solid ;
+}
+.texte-propos{
+  font-size: 20px;
+  text-align: center;
+}
+.titre-propos{
+  text-align: center;
+  margin-top: -80px;
+  margin-bottom: 50px;
+  font-size: 40px;
+  position: relative;
+}
+.contact-button{
+  font-size: 25px;
+  display: inline;
+  margin-left: 184px;
+  background: #d34836;
+	border:none;
+  color:#fff;
+  text-align: center;
+  box-shadow:3px 3px 12px #999;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding : 10px 10px 10px 10px ;
+  border-radius: 5px;
+  
+}
+.download{
+  font-size: 25px;
+  margin-left: 247px;
+  margin-bottom: 20px;
+	background: #d34836;
+	border:none;
+  color:#fff;
+  text-align: center;
+  box-shadow:3px 3px 12px #999;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding : 10px 10px 10px 10px ;
+  border-radius: 5px;
+}
+.titre-scolarite{
+  text-align: center;
+  margin-top: 70px;
+  margin-bottom: 50px;
+  font-size: 40px;
+  position: relative;
+}
+.cesi{
+  background-color:#d34836;
+  color: white;
+  margin-left: 903px;
+  margin-right: 903px;
+  width: 60px;
+  height: 60px;
+  border-radius: 30px;
+
+}
+.c{
+  font-size: 35px;
+  margin-top: 100px;
+  margin-left: 17px;
+  margin-bottom: 0px;
+  margin-right: 20px;
+  padding-top: 10px;
+  position: relative;
+}
+.reliant{
+    width: 143px;
+    height: 6px;
+    background-color: #d34836;
+    border: none;
+    opacity: 48%;
+    margin-top: -33px;
+    margin-left: 760px ;
+    margin-right: 800px;
+    position: relative;
+}
+.info-cesi{
+  background-color:#FFE8E8;
+  border: 1px solid;
+  margin-left: 292px;
+  margin-right: 1081px;
+  margin-top: -100px;
+  position: relative;
+}
+.nom-ecole{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: black;
+  margin-left: 10px;
+
+}
+.ville-ecole{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: black;
+  margin-left: 10px;
+}
+.date{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: black;
+  margin-left: 10px;
+}
+.information{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: black;
+  margin-left: 10px;
+}
+.reliant2{
+  width: 6px;
+  height: 196px;
+  background-color: #d34836;
+  border: none;
+  margin-top: -196px;
+  margin-left: 759px ;
+  margin-right: 800px;
+  position: relative;
+
+}
+.j{
+  font-size: 35px;
+  margin-top: 100px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  margin-right: 20px;
+  padding-top: 10px;
+  
+}
+.content-scolarite{
+  position: relative;
+}
+.m{
+  font-size: 35px;
+  margin-top: -265px;
+  margin-left: 5px;
+  margin-bottom: 10px;
+  margin-right: 20px;
+  padding-top: 10px;
+}
+.info-mj{
+  background-color:#FFE8E8;
+  border: 1px solid;
+  margin-left: 1081px;
+  margin-right: 292px;
+  margin-top: -100px;
+  position: relative;
+}
+.reliant3{
+  width: 120px;
+  height: 6px;
+  background-color: #d34836;
+  border: none;
+  opacity: 48%;
+  margin-top: -33px;
+  margin-left: auto ;
+  margin-right: 760px;
+  position: relative;
+}
+.reliant4{
+  width: 6px;
+  height: 196px;
+  background-color: #d34836;
+  border: none;
+  margin-top: -196px;
+  margin-left: auto ;
+  margin-right: 759px;
+  position: relative;
+}
+.reliant5{
+  width: 6px;
+  height: 60px;
+  background-color: #d34836;
+  opacity: 48%;
+  border: none;
+  margin-top: -203px;
+  margin-left: auto ;
+  margin-right: 905px;
+  position: relative;
+ 
+}
+.reliant6{
+  width: 6px;
+  height: 60px;
+  background-color: #d34836;
+  opacity: 48%;
+  border: none;
+  margin-top: 58px;
+  margin-left: auto ;
+  margin-right: 905px;
+  position: relative;
+}
+.titre-competence{
+  text-align: center;
+  margin-top: 220px;
+  margin-bottom: 50px;
+  font-size: 40px;
+  position: relative;
+}
+.image-mysql{
+  background-image: url(./mysql.png);
+  border-radius:50%;
+  width:120px;
+  height:120px;
+  border: 0.5px solid;
+  margin-left: 292px;
+}
+.mmysql{
+  float: left;
+  padding-bottom: 80px;
+
+}
+.content-competence{
+  position: relative;
+}
+.desc-image{
+  margin-left: 313px;
+  font-size: 25px;
+  margin-top: 5px
+}
+.image-react{
+  background-image: url(./logo.svg);
+  border-radius:50%;
+  width:120px;
+  height:120px;
+  border: 0.5px solid;
+  margin-left: 292px;
+}
+.image-js{
+  background-image: url(./js.png);
+  border-radius:50%;
+  width:120px;
+  height:120px;
+  border: 0.5px solid;
+  margin-left: 292px;
+}
+.image-html{
+  background-image: url(./html.png);
+  border-radius:50%;
+  width:120px;
+  height:120px;
+  border: 0.5px solid;
+  margin-left: 292px;
+}
+.image-css{
+  background-image: url(./css.png);
+  border-radius:50%;
+  width:120px;
+  height:120px;
+  border: 0.5px solid;
+  margin-left: 292px;
+}
+.image-java{
+  background-image: url(./java.png);
+  border-radius:50%;
+  width:120px;
+  height:120px;
+  border: 0.5px solid;
+  margin-left: 292px;
+}
+.image-c{
+  background-image: url(./c.png);
+  border-radius:50%;
+  width:120px;
+  height:120px;
+  border: 0.5px solid;
+  margin-left: 292px;
+}
+.image-cisco{
+  background-image: url(./cisco.png);
+  border-radius:50%;
+  width:120px;
+  height:120px;
+  border: 0.5px solid;
+  margin-left: 292px;
+}
+.image-laravel{
+  background-image: url(./laravel.jpg);
+  border-radius:50%;
+  width:120px;
+  height:120px;
+  border: 0.5px solid;
+  margin-left: 292px;
+}
+.image-git{
+  background-image: url(./git.png);
+  border-radius:50%;
+  width:120px;
+  height:120px;
+  border: 0.5px solid;
+  margin-left: 292px;
+}
+.image-bash{
+  background-image: url(./bash.png);
+  border-radius:50%;
+  width:120px;
+  height:120px;
+  border: 0.5px solid;
+  margin-left: 292px;
+}
+.image-sql{
+  background-image: url(./sql.jpg);
+  border-radius:50%;
+  width:120px;
+  height:120px;
+  border: 0.5px solid;
+  margin-left: 292px;
+}
+.info-compta{
+  background-color:#FFE8E8;
+  border: 1px solid;
+  margin-left: 1081px;
+  margin-right: 292px;
+  margin-top: -100px;
+  position: relative;
+}
+.info-be{
+  background-color:#FFE8E8;
+  border: 1px solid;
+  margin-left: 292px;
+  margin-right: 1081px;
+  margin-top: -100px;
+  position: relative;
+}
+.titre-experience{
+  text-align: center;
+  margin-top: 70px;
+  margin-bottom: 50px;
+  font-size: 40px;
+  position: relative;
+  padding-bottom: 50px;
+}
+.content-experience{
+  position: relative;
+}
+.reliant7{
+  width: 6px;
+  height: 185px;
+  background-color: #d34836;
+  opacity: 48%;
+  border: none;
+  margin-top: -325px;
+  margin-left: auto ;
+  margin-right: 905px;
+  position: relative;
+}
+.image-canne{
+  background-image: url(./canne.png);
+  width:582px;
+  height:383px;
+  border: 2px solid black;
+  margin-left: 292px;
+  position: relative;
+}
+.titre-projet{
+  text-align: center;
+  margin-top: 230px;
+  margin-bottom: 50px;
+  font-size: 40px;
+  position: relative;
+  padding-bottom: 50px;
+}
+.image-bdd{
+  background-image: url(./bdd.png);
+  width:582px;
+  height:383px;
+  border: 2px solid black;
+  margin-left: 50px;
+  position: relative;
+}
+.image-web{
+  background-image: url(./web.jpg);
+  width:582px;
+  height:383px;
+  border: 2px solid black;
+  margin-left: 292px;
+  margin-top: 50px;
+  position: relative;
+}
+.image-veille{
+  background-image: url(./veille.png);
+  width:582px;
+  height:383px;
+  border: 2px solid black;
+  margin-left: 50px;
+  margin-top: 50px;
+  position: relative;
+}
+.bgbg{
+  background-color: #EEE8E8;
+  width:1920px ;
+  height: 5000px;
+  margin-top: -400px;
+  margin-bottom: -5000px;
+  z-index: 0;
+}
+.titre-contact{
+  text-align: center;
+  margin-top: 75px;
+  font-size: 40px;
+  position: relative;
+  padding-bottom: 30px;
+}
+
+
+
+
+
+
+
+/* Style inputs with type="text", select elements and textareas */
+input[type=text], select, textarea {
+  width: 100%; /* Full width */
+  padding: 12px; /* Some padding */ 
+  border: 1px solid #ccc; /* Gray border */
+  border-radius: 4px; /* Rounded borders */
+  box-sizing: border-box; /* Make sure that padding and width stays in place */
+  margin-top: 6px; /* Add a top margin */
+  margin-bottom: 16px; /* Bottom margin */
+  resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+}
+
+/* Style the submit button with a specific background color etc */
+input[type=submit] {
+  background-color:red;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+/* When moving the mouse over the submit button, add a darker green color */
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+/* Add a background color and some padding around the form */
+.container {
+  border-radius: 5px;
+  background-color:#EEE8E8;
+  padding: 20px;
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px solid black;
+}
+
+.footer{
+margin-top: 50px;
+background-color: #d34836;
+padding-top: 15px;
+padding-bottom: 15px;
+}
+.content-footer{
+color: white;
+text-align: center;
+}
+.reliant-js1{
+  width: 100px;
+  height: 5px;
+  border-radius: 25px 25px 25px 25px;
+  color: #d34836;
+  background-color: #d34836;
+  margin-left: 300px;
+  margin-top: 20px;
+}
+.reliant-js2{
+  width: 100px;
+  height: 5px;
+  border-radius: 25px 25px 25px 25px;
+  color: #d34836;
+  background-color: #d34836;
+  margin-left: 300px;
+  margin-top: 20px;
+}
+
+.info-be:hover{
+  background-color:rgb(255, 189, 189) ;
+}
+.info-cesi:hover{
+  background-color:rgb(255, 189, 189) ;
+} .info-mj:hover{
+  background-color:rgb(255, 189, 189) ;
+}
+.info-compta:hover{
+  background-color:rgb(255, 189, 189) ;
+} 
+.contact-button:hover{
+background: #750e00;
+
+}
+.download:hover{
+background: #750e00;
+}
+a:link{
+  text-decoration: none;
+}
