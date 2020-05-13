@@ -87,3 +87,10 @@ Pour modifier le background il faut vous rendre dans src/App.css
 
 ### Si vous souhaitez déployer votre site sur le web 
 
+Suite à un problème de dernière minute le site n'a pas été déployé à l'aide de Heroku mais à l'aide de Netlify
+
+Vous devez donc :
+- créer votre compte netlify
+- lier votre compte github avec netlify 
+- donner les accès à netlify pour qu'ils puissent accéder à votre repository
+- déployer le site
