@@ -70,6 +70,20 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 ### Si vous souhaitez modifier votre profil
 
-Il vous suffit de modifier la photo se trouvant dans src/Card
+Il vous suffit de modifier la photo se trouvant dans src/Card.js
 
-Vous trouverez les informations de la section "A PROPOS" dans src/Propos
+Vous trouverez les informations de la section "A PROPOS" dans src/Propos.js
+
+Pour changer les liens il vous suffit de changer le "href", je vous conseille d'uploader vos documents sur google drive et de faire une redirection sur votre drive.
+
+Les autres fichiers sont parlants : 
+
+- Scolarité => src/Scolarite.js
+- Expérience => src/Experience.js
+- Projets => src/Projet.js
+- Contact => src/Contact.js
+
+Pour modifier le background il faut vous rendre dans src/App.css
+
+### Si vous souhaitez déployer votre site sur le web 
+
