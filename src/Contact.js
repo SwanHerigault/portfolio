@@ -13,7 +13,7 @@ function Contact(){
                     <input type="text" id="lname" name="lastname" placeholder="Object..."/>
                     <label for="subject">Message</label>
                     <textarea id="subject" name="subject" placeholder="Écrivez quelque chose..." type="text"></textarea>
-                    <input type="submit" value="Submit"/>
+                    <input type="submit" value="Envoyer"/>
                 </form>
             </div> 
         </section>
